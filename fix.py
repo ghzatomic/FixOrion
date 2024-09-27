@@ -52,7 +52,7 @@ def start_fix():
 
 # Interface gráfica usando Tkinter
 root = tk.Tk()
-root.title("Download Fix - Scrambler & GHZATOMIC")
+root.title("Orion Fix (Execute como administrador)")
 
 # Label para exibir a pasta selecionada
 folder_label = tk.Label(root, text="Selecione uma pasta de destino", width=60)
